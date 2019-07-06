@@ -4,11 +4,11 @@ body {
   font-family: sans-serif;
 }
 a:link {
-  color: #0cc;
+  color: #ccc;
   text-decoration: none;
 }
 a:visited {
-  color: #0cc;
+  color: #ccc;
   text-decoration: none;
 }
 a:hover {
