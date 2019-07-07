@@ -25,6 +25,22 @@ h3 {
   margin-top: 0px;
 }
 
+.cardimg {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  width: 200px;
+  height: 150px;
+  object-fit: scale-down;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clear-left {
+  clear: left;
+}
+
 .card {
   float: left;
   width: 300px;
