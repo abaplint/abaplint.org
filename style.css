@@ -36,6 +36,16 @@ h3 {
   margin-right: auto;
 }
 
+.cardimg2 {
+  width: 200px;
+  height: 150px;
+  object-fit: scale-down;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .clear-left {
   clear: left;
 }
